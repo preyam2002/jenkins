@@ -3,6 +3,6 @@
  */
 public class HelloWorld {
   public static void main(String[] args) {
-    System.out.println("Hello, World from Oracle DevOps create on Jul 26, 2023");
+    System.out.println("Hello, World from Oracle DevOps create on Aug 2, 2023");
   }
 }
